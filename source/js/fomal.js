@@ -1113,27 +1113,48 @@ function changeMouseMode() {
 var now1 = new Date();
 
 function createtime1() {
-  var grt = new Date("08/09/2022 00:00:00"); //此处修改你的建站时间或者网站上线时间
+  var grt = new Date("22/06/2025 00:00:00"); //此处修改你的建站时间或者网站上线时间
   now1.setTime(now1.getTime() + 250);
   var days = (now1 - grt) / 1000 / 60 / 60 / 24;
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到Fomalhaut🥝の小家!`,
+    `欢迎来到heaven🥝の小家!`,
     `Future is now 🍭🍭🍭`,
     `
         
-███████  ██████  ███    ███  █████  ██      ██   ██  █████  ██    ██ ████████ 
-██      ██    ██ ████  ████ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-█████   ██    ██ ██ ████ ██ ███████ ██      ███████ ███████ ██    ██    ██    
-██      ██    ██ ██  ██  ██ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-██       ██████  ██      ██ ██   ██ ███████ ██   ██ ██   ██  ██████     ██   
-                                              
+
+                                                                                                                 
+                                                                                                                 
+    hhhhhhh                                                                                                          
+    h:::::h                                                                                                          
+    h:::::h                                                                                                          
+    h:::::h                                                                                                          
+     h::::h hhhhh           eeeeeeeeeeee    aaaaaaaaaaaaavvvvvvv           vvvvvvv eeeeeeeeeeee    nnnn  nnnnnnnn    
+     h::::hh:::::hhh      ee::::::::::::ee  a::::::::::::av:::::v         v:::::vee::::::::::::ee  n:::nn::::::::nn  
+     h::::::::::::::hh   e::::::eeeee:::::eeaaaaaaaaa:::::av:::::v       v:::::ve::::::eeeee:::::een::::::::::::::nn 
+     h:::::::hhh::::::h e::::::e     e:::::e         a::::a v:::::v     v:::::ve::::::e     e:::::enn:::::::::::::::n
+     h::::::h   h::::::he:::::::eeeee::::::e  aaaaaaa:::::a  v:::::v   v:::::v e:::::::eeeee::::::e  n:::::nnnn:::::n
+     h:::::h     h:::::he:::::::::::::::::e aa::::::::::::a   v:::::v v:::::v  e:::::::::::::::::e   n::::n    n::::n
+     h:::::h     h:::::he::::::eeeeeeeeeee a::::aaaa::::::a    v:::::v:::::v   e::::::eeeeeeeeeee    n::::n    n::::n
+     h:::::h     h:::::he:::::::e         a::::a    a:::::a     v:::::::::v    e:::::::e             n::::n    n::::n
+     h:::::h     h:::::he::::::::e        a::::a    a:::::a      v:::::::v     e::::::::e            n::::n    n::::n
+     h:::::h     h:::::h e::::::::eeeeeeeea:::::aaaa::::::a       v:::::v       e::::::::eeeeeeee    n::::n    n::::n
+     h:::::h     h:::::h  ee:::::::::::::e a::::::::::aa:::a       v:::v         ee:::::::::::::e    n::::n    n::::n
+     hhhhhhh     hhhhhhh    eeeeeeeeeeeeee  aaaaaaaaaa  aaaa        vvv            eeeeeeeeeeeeee    nnnnnn    nnnnnn
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+    
 `,
     "小站已经苟活",
     dnum,
     "天啦!",
-    "©2022 By Fomalhaut",
+    "©2025 By heaven",
   ];
 
   setTimeout(
@@ -1172,7 +1193,7 @@ function createtime2() {
   setTimeout(
     console.warn.bind(
       console,
-      "%c ⚡ Powered by Fomalhaut🥝 %c 你正在访问Fomalhaut🥝の小家",
+      "%c ⚡ Powered by heaven🥝 %c 你正在访问heaven🥝の小家",
       "color:white; background-color:#f0ad4e",
       ""
     )

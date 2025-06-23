@@ -701,7 +701,7 @@ aside:
       enable: true
       icon: # fab fa-github
       text: 前往小窝
-      link: https://github.com/fomalhaut1998
+      link: https://github.com/qian-alt
   card_announcement:
     enable: true  # 前面必须是 2 或 4 个空格
     content: |
