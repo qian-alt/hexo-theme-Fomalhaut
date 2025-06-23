@@ -543,7 +543,7 @@ tag_ui: # 留空或 index
 # "#e4f4f6" "#efefef"
 background:
   #【必选】默认背景
-  default: var(--default-bg)
+  default: url(https://pic-bed.dearheaven.cn/img/bg5.png)
   # #【可选】PC端夜间模式背景
   darkmode: var(--darkmode-bg)
   # #【可选】移动端日间默认背景
@@ -763,7 +763,7 @@ runtimeshow:
 
 # Aside widget - Newest Comments
 newest_comments:
-  enable: false
+  enable: true
   sort_order: # Don't modify the setting unless you know how it works
   limit: 5
   storage: 10 # unit: mins, save data to localStorage
