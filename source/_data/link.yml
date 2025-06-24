@@ -8,3 +8,11 @@
       siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
 
 
+- class_name: 1.技术支持🍟
+  class_desc: 前端大牛，轮子缔造者，本网站的搭建参考了以下开源作者
+  link_list: 
+    - name: Hexo
+      link: https://hexo.io/zh-cn/
+      avatar: https://www.fomal.cc/assets/avatar.webp
+      descr: 简洁且高效的博客框架
+      siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
