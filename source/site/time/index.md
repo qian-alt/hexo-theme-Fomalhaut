@@ -6,11 +6,12 @@ comments: false
 
 {% timeline 小站建设进程 %}
 
-<!-- timeline 2025-6-22-->
+<!-- timeline 2025-6-19-->
 
 1. 偶然看到B站某Up主的视频，并且网站已开源，遂决定建站
 
 <!-- endtimeline -->
-
-
+<!-- timeline 2025-6-22-->
+虽然开源了，但对于我这种小白还是有点困难的，跟着教程和hexo以及Butterfly的文档才堪堪完成大概，还有评论的统计的功能都没有完善
+<!-- endtimeline -->
 {% endtimeline %}
