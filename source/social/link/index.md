@@ -8,23 +8,23 @@ type: "link"
 {% tabs link %}
 <!-- tab 🙋 butterfly-💭candy -->
 ```yml
-    - name: Fomalhaut🥝
-      link: https://www.fomal.cc/
-      avatar: https://www.fomal.cc/assets/avatar.webp
+    - name: heaven🥝
+      link: https://www.dearheaven.cn/
+      avatar: https://pic-bed.dearheaven.cn/img/touxiang.jpg
       descr: Future is now 🍭🍭🍭
-      siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+      siteshot: https://pic-bed.dearheaven.cn/img/sitehost.png
 ```
 <!-- endtab -->
 
 <!-- tab 🥗Volantis -->
 ```JSON
 {
-  "title": "Fomalhaut🥝",
-  "screenshot": "https://source.fomal.cc/siteshot/www.fomal.cn.jpg",
-  "url": "https://www.fomal.cc/",
-  "avatar": "https://www.fomal.cc/assets/avatar.webp",
+  "title": "heaven🥝",
+  "screenshot": "https://pic-bed.dearheaven.cn/img/sitehost.png",
+  "url": "https://www.dearheaven.cn",
+  "avatar": "https://pic-bed.dearheaven.cn/img/touxiang.jpg",
   "description": "Future is now 🍭🍭🍭",
-  "keywords": "Fomalhaut🥝"
+  "keywords": "heaven🥝"
 }
 ```
 <!-- endtab -->
@@ -33,12 +33,12 @@ type: "link"
 
 | 名称       | 数值                                                         |
 | ---------- | ------------------------------------------------------------ |
-| 站点名称   | Fomalhaut🥝                                                   |
-| 站点截图   | https://source.fomal.cc/siteshot/www.fomal.cn.jpg |
-| 站点链接   | https://www.fomal.cc/                                        |
-| 站长头像   | https://www.fomal.cc/assets/avatar.webp                         |
+| 站点名称   | heaven🥝                                                   |
+| 站点截图   | https://pic-bed.dearheaven.cn/img/sitehost.png |
+| 站点链接   | https://www.dearheaven.cn/                                     |
+| 站长头像   | https://pic-bed.dearheaven.cn/img/touxiang.jpg                     |
 | 站点描述   | Future is now🍭🍭🍭                         |
-| 站点关键词 | Fomalhaut🥝,个人博客,代码                                     |
+| 站点关键词 | heaven🥝,个人博客,代码                                     |
 
 <!-- endtab -->
 {% endtabs %}
