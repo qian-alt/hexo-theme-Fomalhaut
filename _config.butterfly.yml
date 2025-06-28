@@ -157,6 +157,26 @@ cover:
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     - https://source.fomal.cc/img/default_cover_14.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_1.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_2.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_3.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_4.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_5.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_7.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_8.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_11.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_12.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_15.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_23.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_30.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_65.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_70.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_74.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_78.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_90.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_92.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_95.webp
+    - https://pic-bed.dearheaven.cn/img/default_cover_79.webp
     # ...
 
 # A simple 404 page
