@@ -24,5 +24,11 @@ comments: false
 
 <!-- endtimeline -->
 
+<!-- timeline 2025-8-16-->
+
+解决移动端菜单栏及侧边栏失效的问题
+
+<!-- endtimeline -->
+
 {% endtimeline %}
 
