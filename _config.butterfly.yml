@@ -562,8 +562,14 @@ tag_ui: # 留空或 index
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 # "#e4f4f6" "#efefef"
 background:
-  #【必选】默认背景
-  default: url(https://pic-bed.dearheaven.cn/img/bg5.png)
+  #【必选】默认背景 - 多图轮播
+  default: 
+    # - url(https://pic-bed.dearheaven.cn/img/bg5.png)
+    - url(https://pic-bed.dearheaven.cn/img/default_cover_100.png)
+    # - url(https://pic-bed.dearheaven.cn/img/default_cover_101.png)
+    # - url(https://pic-bed.dearheaven.cn/img/default_cover_102.png)
+    # - url(https://pic-bed.dearheaven.cn/img/default_cover_103.png)
+    # - url(https://pic-bed.dearheaven.cn/img/default_cover_104.png)
   # #【可选】PC端夜间模式背景
   darkmode: var(--darkmode-bg)
   # #【可选】移动端日间默认背景
@@ -950,13 +956,13 @@ inject:
     - <style id="menu_shadow"></style> # 菜单发光样式
 
   bottom:
-    - <script src="https://cdn.staticfile.org/jquery/3.6.3/jquery.min.js"></script> # jQuery
-    - <script async src="https://cdn1.tianli0.top/npm/vue@2.6.14/dist/vue.min.js"></script> # VUE
-    - <script async src="https://cdn1.tianli0.top/npm/element-ui@2.15.6/lib/index.js"></script> # ElementUI
-    - <script async src="https://cdn.bootcdn.net/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script> # 分享按钮依赖
-    - <script defer type="text/javascript" src="https://cdn1.tianli0.top/npm/sweetalert2@8.19.0/dist/sweetalert2.all.js"></script> # 节日弹窗依赖
+    - <script src="/js/jquery.min.js"></script> # jQuery
+    - <script async src="/js/vue.min.js"></script> # VUE
+    - <script async src="/js/index.js"></script> # ElementUI
+    - <script async src="/js/clipboard.min.js"></script> # 分享按钮依赖
+    - <script defer type="text/javascript" src="/js/sweetalert2.all.js"></script> # 节日弹窗依赖
     - <script async src="//npm.elemecdn.com/pace-js@1.2.4/pace.min.js"></script> # 顶部进度条js
-    - <script defer src="https://cdn1.tianli0.top/gh/nextapps-de/winbox/dist/winbox.bundle.min.js"></script> # winbox
+    - <script defer src="/js/winbox.bundle.min.js"></script> # winbox
     - <script async src="//at.alicdn.com/t/c/font_3586335_hsivh70x0fm.js"></script> # js图标引入1
     - <script async src="//at.alicdn.com/t/c/font_3636804_gr02jmjr3y9.js"></script> # js图标引入2
     - <script async src="//at.alicdn.com/t/c/font_3612150_kfv55xn3u2g.js"></script> # js图标引入3
@@ -1003,7 +1009,7 @@ CDN:
     # valine: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/valine/1.4.16/Valine.min.js
     # disqusjs: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/disqusjs/1.3.0/disqus.js
     # disqusjs_css: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/disqusjs/1.3.0/disqusjs.css
-    twikoo: https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js
+    twikoo:  /js/twikoo.all.min.js # https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js
     # waline_js: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/waline/1.5.4/Waline.min.js
     # waline_css:
     # sharejs: https://lib.baomitu.com/social-share.js/1.0.16/js/social-share.min.js
@@ -1015,9 +1021,9 @@ CDN:
     # canvas_ribbon:
     # canvas_fluttering_ribbon:
     # canvas_nest:
-    lazyload: https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.3.1/dist/lazyload.iife.min.js
-    instantpage: https://cdn.jsdelivr.net/npm/instant.page@5.1.0/instantpage.min.js
-    typed: https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
+    lazyload: /js/lazyload.iife.min.js
+    instantpage:  # /js/instantpage.min.js
+    typed: /js/typed.min.js
     # pangu:
     fancybox_css_v4: https://cdn.staticfile.org/fancyapps-ui/4.0.31/fancybox.min.css
     fancybox_v4: https://cdn.staticfile.org/fancyapps-ui/4.0.31/fancybox.umd.min.js
