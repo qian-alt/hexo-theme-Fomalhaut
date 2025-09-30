@@ -23,14 +23,20 @@
       descr: 简洁且高效的博客框架
       siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
 
-# - class_name: 3.宝藏网站🍉
-#   class_desc: 一些比较好的网站
-#   link_list: 
-#     - name: Hexo
-#       link: https://hexo.io/zh-cn/
-#       avatar: https://www.fomal.cc/assets/avatar.webp
-#       descr: 简洁且高效的博客框架
-#       siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+- class_name: 3.宝藏网站🍉
+  class_desc: 一些比较好的网站
+  link_list: 
+    - name: 江西财经大学网络安全协会
+      link: https://www.wpst.top/
+      avatar: https://www.wpst.top/favicon.svg
+      descr: 江西财经大学网络安全协会
+      # siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+
+    - name: 想玩电脑の秋雨样
+      link: https://amqyy.cn/
+      avatar: https://www.wpst.top/avatar/qyy.avif
+      descr: 江财网安神
+      # siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
 
 # - class_name: 4.茫茫人海🎈
 #   class_desc: 海内存知己，天涯若比邻，这里是非常厉害的朋友
