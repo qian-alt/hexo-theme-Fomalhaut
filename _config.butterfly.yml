@@ -53,7 +53,7 @@ copy:
 social:
   # Github: https://github.com/qian-alt|| icon-github || faa-tada
   微信: /assets/QRcode.png || icon-weixin || faa-tada
-  QQ: https://pic-bed.dearheaven.cn/img/QQ.jpg || icon-QQ || faa-tada
+  QQ: https://pic-bed.dearheaven.cn/img/QQ.webp || icon-QQ || faa-tada
   B站: https://space.bilibili.com/220757832 || icon-bilibili || faa-tada
   QQ邮箱: mailto:2995719100@qq.com || icon-youxiang || faa-tada
   力扣: https://leetcode.cn/u/loveheaven || icon-leetcode || faa-tada
@@ -113,7 +113,7 @@ favicon:
 
 # Avatar (頭像)
 avatar:
-  img: /assets/touxiang.jpg
+  img: https://pic-bed.dearheaven.cn/img/touxiang.webp
   effect: false
 
 # Disable all banner image
@@ -244,7 +244,7 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: https://pic-bed.dearheaven.cn/img/fee.png
+    - img: https://pic-bed.dearheaven.cn/img/fee.webp
       link:
       text: 微信
     # - img: https://tuchuang.voooe.cn/images/2023/01/04/20f8e49805975b8f8.webp
@@ -565,18 +565,18 @@ tag_ui: # 留空或 index
 background:
   #【必选】默认背景 - 多图轮播
   default: 
-    # - url(https://pic-bed.dearheaven.cn/img/bg5.png)
-    - url(https://pic-bed.dearheaven.cn/img/default_cover_100.png)
-    # - url(https://pic-bed.dearheaven.cn/img/default_cover_101.png)
-    # - url(https://pic-bed.dearheaven.cn/img/default_cover_102.png)
-    # - url(https://pic-bed.dearheaven.cn/img/default_cover_103.png)
-    # - url(https://pic-bed.dearheaven.cn/img/default_cover_104.png)
+    # - url(https://pic-bed.dearheaven.cn/img/bg5.webp)
+    - url(https://pic-bed.dearheaven.cn/img/default_cover_100.webp)
+    # - url(https://pic-bed.dearheaven.cn/img/default_cover_101.webp)
+    # - url(https://pic-bed.dearheaven.cn/img/default_cover_102.webp)
+    # - url(https://pic-bed.dearheaven.cn/img/default_cover_103.webp)
+    # - url(https://pic-bed.dearheaven.cn/img/default_cover_104.webp)
   # #【可选】PC端夜间模式背景
   darkmode: var(--darkmode-bg)
   # #【可选】移动端日间默认背景
   mobileday: 
   # var(--mobileday-bg)
-           url(https://pic-bed.dearheaven.cn/img/phone_bg.png)
+           url(https://pic-bed.dearheaven.cn/img/phone_bg.webp)
   # #【可选】移动端夜间模式背景
   mobilenight: var(--mobilenight-bg)
 
