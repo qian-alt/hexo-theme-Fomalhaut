@@ -35,8 +35,15 @@
     - name: 想玩电脑の秋雨样
       link: https://amqyy.cn/
       avatar: https://www.wpst.top/avatar/qyy.avif
-      descr: 江财网安神
+      descr: 我菜炸了
       # siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+
+    - name: piterの小窝
+      link: https://npiter.tech
+      avatar: https://npiter.tech/wp-content/uploads/2025/03/cropped-1742635384-柴犬.png
+      descr: CTF, NETWORK
+      siteshot: https://pic.npiter.com/file/1759335166759_image.png
+    
 
 # - class_name: 4.茫茫人海🎈
 #   class_desc: 海内存知己，天涯若比邻，这里是非常厉害的朋友
